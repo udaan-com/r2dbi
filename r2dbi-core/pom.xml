@@ -27,6 +27,8 @@
     <artifactId>r2dbi-core</artifactId>
     <version>1.0.1.ALPHA-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <name>R2DBI Core</name>
+    <description>A JDBI like client for R2DBC which allows developers to use declarative syntax to execute queries and map their results</description>
 
     <dependencies>
         <dependency>

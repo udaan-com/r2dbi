@@ -25,6 +25,7 @@
 
     <name>A JDBI like client for R2DBC</name>
     <url>https://github.com/udaan-com/r2dbi</url>
+    <description>A JDBI like client for R2DBC which allows developers to use declarative syntax to execute queries and map their results</description>
 
     <licenses>
         <license>
