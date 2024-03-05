@@ -21,11 +21,11 @@
     <parent>
         <groupId>com.udaan.r2dbi</groupId>
         <artifactId>r2dbi</artifactId>
-        <version>1.0.0.ALPHA</version>
+        <version>1.0.1.ALPHA-SNAPSHOT</version>
     </parent>
 
     <artifactId>r2dbi-core</artifactId>
-    <version>1.0.0.ALPHA</version>
+    <version>1.0.1.ALPHA-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <dependencies>
