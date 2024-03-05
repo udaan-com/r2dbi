@@ -20,7 +20,7 @@
 
     <groupId>com.udaan.r2dbi</groupId>
     <artifactId>r2dbi</artifactId>
-    <version>1.0.0.ALPHA-SNAPSHOT</version>
+    <version>1.0.0.ALPHA</version>
     <packaging>pom</packaging>
 
     <name>A JDBI like client for R2DBC</name>
@@ -37,7 +37,7 @@
         <connection>scm:git:${project.scm.url}</connection>
         <developerConnection>scm:git:${project.scm.url}</developerConnection>
         <url>git@github.com:udaan-com/r2dbi.git</url>
-        <tag>HEAD</tag>
+        <tag>r2dbi-1.0.0.ALPHA</tag>
     </scm>
 
     <developers>
